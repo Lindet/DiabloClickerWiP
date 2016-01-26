@@ -1,0 +1,17 @@
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\UnityEditor.dll
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\UnityEngine.dll
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+J:\Projects\DiabloClicker\obj\Debug\Assembly-CSharp.dll
+J:\Projects\DiabloClicker\obj\Debug\Assembly-CSharp.pdb
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\UnityEngine.xml
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\UnityEditor.xml
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+J:\Projects\DiabloClicker\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+J:\Projects\DiabloClicker\obj\Debug\UnityVS.DiabloClicker.CSharp.csprojResolveAssemblyReference.cache
