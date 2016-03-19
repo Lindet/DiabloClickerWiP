@@ -53,6 +53,7 @@ public class ButtonBaseMouseEvents : MonoBehaviour
     protected void StateChangedMethod(ButtonState prevState, ButtonState currState)
     {
         var backButtonTex = Resources.Load<Texture2D>(String.Format(@"Buttons/{0}", gameObject.GetComponent<SpriteRenderer>().sprite.texture.name.Replace(prevState.ToString(), currState.ToString())));
+        if (!backButtonTex) return; 
         gameObject.GetComponent<SpriteRenderer>().sprite = Sprite.Create(backButtonTex,
             new Rect(0, 0, backButtonTex.width, backButtonTex.height), new Vector2(0, 0));
     }

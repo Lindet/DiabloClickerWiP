@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 85a757a83fe1ee844b4afa9eb79b1c78
+timeCreated: 1456934785
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Collector1
+    100002: Collector1 1
+    100004: Default
+    100006: Drawbridge_New_Tristram_trOut_A13
+    100008: FenceNwell_01_Fields_trOut
+    100010: FenceNwell_01_Fields_trOut 1
+    100012: InnSign6
+    100014: InnSign6 1
+    100016: InnSign6 2
+    100018: InnSign6 3
+    100020: InnSign6 4
+    100022: InnSign6 5
+    100024: NT_HouseComp20
+    100026: NT_HouseComp20 1
+    100028: //RootNode
+    100030: trOut_Fields_Leaves_Dead_mstr
+    100032: trOut_Fields_Leaves_Dead_mstr 1
+    100034: trOut_Foliage_Bush_A_mstr
+    100036: trOut_Foliage_Bush_A_mstr 1
+    100038: trOut_Foliage_Bush_A_mstr 2
+    100040: trOut_Foliage_Bush_A_mstr 3
+    100042: trOut_Foliage_Bush_A_mstr 4
+    100044: trOut_Foliage_Bush_A_mstr 5
+    100046: trOut_Foliage_Bush_A_mstr 6
+    100048: trOut_Foliage_Bush_A_mstr 7
+    100050: trOut_Foliage_Bush_A_mstr 8
+    100052: trOut_NewTristram_CastLight_A_mstr
+    100054: trOut_NewTristram_CastLight_A_mstr 1
+    100056: trOut_NewTristram_CastLight_A_mstr 2
+    100058: trOut_NewTristram_DrawBridge_A_mstr
+    100060: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr
+    100062: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr 1
+    100064: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr 2
+    100066: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr 3
+    100068: trOut_NewTristram_GrassEdge_mstr
+    100070: trOut_NewTristram_GrassEdge_mstr 1
+    100072: trOut_NewTristram_GrassEdge_mstr 2
+    100074: trOut_NewTristram_GrassEdge_mstr 3
+    100076: trOut_NewTristram_GrassEdge_mstr 4
+    100078: trOut_NewTristram_GrassEdge_mstr 5
+    100080: trOut_NewTristram_GrassEdge_mstr 6
+    100082: trOut_NewTristram_GrassEdge_mstr 7
+    100084: trOut_NewTristram_Hay_A_mstr
+    100086: trOut_NewTristram_Hay_A_mstr 1
+    100088: trOut_NewTristram_Hay_A_mstr 2
+    100090: trOut_NewTristram_Hay_A_mstr 3
+    100092: trOut_NewTristram_Hay_A_mstr 4
+    100094: trOut_NewTristram_Hay_A_mstr 5
+    100096: trOut_NewTristram_Hay_A_mstr 6
+    100098: trOut_NewTristram_Hay_A_mstr 7
+    100100: trOut_NewTristram_HouseComp_A_mstr
+    100102: trOut_NewTristram_HouseComp_A_mstr 1
+    100104: trOut_NewTristram_HouseComp_A_mstr 10
+    100106: trOut_NewTristram_HouseComp_A_mstr 11
+    100108: trOut_NewTristram_HouseComp_A_mstr 12
+    100110: trOut_NewTristram_HouseComp_A_mstr 13
+    100112: trOut_NewTristram_HouseComp_A_mstr 2
+    100114: trOut_NewTristram_HouseComp_A_mstr 3
+    100116: trOut_NewTristram_HouseComp_A_mstr 4
+    100118: trOut_NewTristram_HouseComp_A_mstr 5
+    100120: trOut_NewTristram_HouseComp_A_mstr 6
+    100122: trOut_NewTristram_HouseComp_A_mstr 7
+    100124: trOut_NewTristram_HouseComp_A_mstr 8
+    100126: trOut_NewTristram_HouseComp_A_mstr 9
+    100128: trOut_NewTristram_Road_5_layer_floor_mstr
+    100130: trOut_NewTristram_Road_5_layer_floor_mstr 1
+    100132: trOut_NewTristram_Road_5_layer_floor_mstr 2
+    100134: trOut_NewTristram_Road_5_layer_floor_mstr 3
+    100136: trOut_NewTristram_Rocks_A_mstr
+    100138: trOut_NewTristram_Roof_A_mstr
+    100140: trOut_NewTristram_Roof_A_mstr 1
+    100142: trOut_NewTristram_Roof_A_mstr 2
+    100144: trOut_NewTristram_Roof_A_mstr 3
+    100146: trOut_NewTristram_Wagon_A_mstr
+    100148: trOut_NewTristram_Wagon_A_mstr 1
+    100150: trOut_NewTristram_Wagon_A_noAO_mstr
+    100152: trOut_NewTristram_Wagon_A_noAO_mstr 1
+    100154: trOut_OldTristram_HouseComponents_mstr
+    100156: trOut_RedBushA_diff_mstr
+    100158: trOut_RedBushA_diff_mstr 1
+    100160: trOut_RedBushA_diff_mstr 2
+    100162: trOut_RedBushA_diff_mstr 3
+    100164: trOut_TristramFields_FireWood_mstr
+    100166: trOut_TristramFields_FireWood_mstr 1
+    100168: trOut_TristramFields_FireWood_mstr 2
+    100170: trOut_TristramFields_PT_TreeB_mstr
+    100172: trOut_TristramFields_PT_TreeB_mstr 1
+    100174: trOut_TristramFields_PT_TreeB_mstr 2
+    100176: trOut_TristramFields_PT_TreeB_mstr 3
+    100178: trOut_TristramFields_PT_TreeB_mstr 4
+    100180: trOut_TristramFields_PT_TreeB_mstr 5
+    100182: trOut_TristramFields_PT_TreeB_mstr 6
+    100184: trOut_TristramFields_PT_TreeB_mstr 7
+    100186: trOut_TristramFields_PT_TreeB_mstr 8
+    100188: trOut_TristramFields_PT_TreeC_mstr
+    100190: trOut_TristramFields_PT_TreeC_mstr 1
+    100192: trOut_TristramFields_PT_TreeC_mstr 2
+    100194: trOut_TristramFields_PT_TreeC_mstr 3
+    100196: trOut_TristramFields_PT_TreeC_mstr 4
+    100198: trOut_TristramFields_PT_TreeD_mstr
+    100200: trOut_TristramFields_PT_TreeD_mstr 1
+    100202: trOut_TristramFields_RiverScrolling
+    100204: vendor_fence_alpha_B_mstr
+    100206: vendor_fence_mstr
+    100208: vendor_fence_noAO_mstr
+    400000: Collector1
+    400002: Collector1 1
+    400004: Default
+    400006: Drawbridge_New_Tristram_trOut_A13
+    400008: FenceNwell_01_Fields_trOut
+    400010: FenceNwell_01_Fields_trOut 1
+    400012: InnSign6
+    400014: InnSign6 1
+    400016: InnSign6 2
+    400018: InnSign6 3
+    400020: InnSign6 4
+    400022: InnSign6 5
+    400024: NT_HouseComp20
+    400026: NT_HouseComp20 1
+    400028: //RootNode
+    400030: trOut_Fields_Leaves_Dead_mstr
+    400032: trOut_Fields_Leaves_Dead_mstr 1
+    400034: trOut_Foliage_Bush_A_mstr
+    400036: trOut_Foliage_Bush_A_mstr 1
+    400038: trOut_Foliage_Bush_A_mstr 2
+    400040: trOut_Foliage_Bush_A_mstr 3
+    400042: trOut_Foliage_Bush_A_mstr 4
+    400044: trOut_Foliage_Bush_A_mstr 5
+    400046: trOut_Foliage_Bush_A_mstr 6
+    400048: trOut_Foliage_Bush_A_mstr 7
+    400050: trOut_Foliage_Bush_A_mstr 8
+    400052: trOut_NewTristram_CastLight_A_mstr
+    400054: trOut_NewTristram_CastLight_A_mstr 1
+    400056: trOut_NewTristram_CastLight_A_mstr 2
+    400058: trOut_NewTristram_DrawBridge_A_mstr
+    400060: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr
+    400062: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr 1
+    400064: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr 2
+    400066: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr 3
+    400068: trOut_NewTristram_GrassEdge_mstr
+    400070: trOut_NewTristram_GrassEdge_mstr 1
+    400072: trOut_NewTristram_GrassEdge_mstr 2
+    400074: trOut_NewTristram_GrassEdge_mstr 3
+    400076: trOut_NewTristram_GrassEdge_mstr 4
+    400078: trOut_NewTristram_GrassEdge_mstr 5
+    400080: trOut_NewTristram_GrassEdge_mstr 6
+    400082: trOut_NewTristram_GrassEdge_mstr 7
+    400084: trOut_NewTristram_Hay_A_mstr
+    400086: trOut_NewTristram_Hay_A_mstr 1
+    400088: trOut_NewTristram_Hay_A_mstr 2
+    400090: trOut_NewTristram_Hay_A_mstr 3
+    400092: trOut_NewTristram_Hay_A_mstr 4
+    400094: trOut_NewTristram_Hay_A_mstr 5
+    400096: trOut_NewTristram_Hay_A_mstr 6
+    400098: trOut_NewTristram_Hay_A_mstr 7
+    400100: trOut_NewTristram_HouseComp_A_mstr
+    400102: trOut_NewTristram_HouseComp_A_mstr 1
+    400104: trOut_NewTristram_HouseComp_A_mstr 10
+    400106: trOut_NewTristram_HouseComp_A_mstr 11
+    400108: trOut_NewTristram_HouseComp_A_mstr 12
+    400110: trOut_NewTristram_HouseComp_A_mstr 13
+    400112: trOut_NewTristram_HouseComp_A_mstr 2
+    400114: trOut_NewTristram_HouseComp_A_mstr 3
+    400116: trOut_NewTristram_HouseComp_A_mstr 4
+    400118: trOut_NewTristram_HouseComp_A_mstr 5
+    400120: trOut_NewTristram_HouseComp_A_mstr 6
+    400122: trOut_NewTristram_HouseComp_A_mstr 7
+    400124: trOut_NewTristram_HouseComp_A_mstr 8
+    400126: trOut_NewTristram_HouseComp_A_mstr 9
+    400128: trOut_NewTristram_Road_5_layer_floor_mstr
+    400130: trOut_NewTristram_Road_5_layer_floor_mstr 1
+    400132: trOut_NewTristram_Road_5_layer_floor_mstr 2
+    400134: trOut_NewTristram_Road_5_layer_floor_mstr 3
+    400136: trOut_NewTristram_Rocks_A_mstr
+    400138: trOut_NewTristram_Roof_A_mstr
+    400140: trOut_NewTristram_Roof_A_mstr 1
+    400142: trOut_NewTristram_Roof_A_mstr 2
+    400144: trOut_NewTristram_Roof_A_mstr 3
+    400146: trOut_NewTristram_Wagon_A_mstr
+    400148: trOut_NewTristram_Wagon_A_mstr 1
+    400150: trOut_NewTristram_Wagon_A_noAO_mstr
+    400152: trOut_NewTristram_Wagon_A_noAO_mstr 1
+    400154: trOut_OldTristram_HouseComponents_mstr
+    400156: trOut_RedBushA_diff_mstr
+    400158: trOut_RedBushA_diff_mstr 1
+    400160: trOut_RedBushA_diff_mstr 2
+    400162: trOut_RedBushA_diff_mstr 3
+    400164: trOut_TristramFields_FireWood_mstr
+    400166: trOut_TristramFields_FireWood_mstr 1
+    400168: trOut_TristramFields_FireWood_mstr 2
+    400170: trOut_TristramFields_PT_TreeB_mstr
+    400172: trOut_TristramFields_PT_TreeB_mstr 1
+    400174: trOut_TristramFields_PT_TreeB_mstr 2
+    400176: trOut_TristramFields_PT_TreeB_mstr 3
+    400178: trOut_TristramFields_PT_TreeB_mstr 4
+    400180: trOut_TristramFields_PT_TreeB_mstr 5
+    400182: trOut_TristramFields_PT_TreeB_mstr 6
+    400184: trOut_TristramFields_PT_TreeB_mstr 7
+    400186: trOut_TristramFields_PT_TreeB_mstr 8
+    400188: trOut_TristramFields_PT_TreeC_mstr
+    400190: trOut_TristramFields_PT_TreeC_mstr 1
+    400192: trOut_TristramFields_PT_TreeC_mstr 2
+    400194: trOut_TristramFields_PT_TreeC_mstr 3
+    400196: trOut_TristramFields_PT_TreeC_mstr 4
+    400198: trOut_TristramFields_PT_TreeD_mstr
+    400200: trOut_TristramFields_PT_TreeD_mstr 1
+    400202: trOut_TristramFields_RiverScrolling
+    400204: vendor_fence_alpha_B_mstr
+    400206: vendor_fence_mstr
+    400208: vendor_fence_noAO_mstr
+    2300000: Collector1
+    2300002: Collector1 1
+    2300004: Drawbridge_New_Tristram_trOut_A13
+    2300006: FenceNwell_01_Fields_trOut
+    2300008: FenceNwell_01_Fields_trOut 1
+    2300010: InnSign6
+    2300012: InnSign6 1
+    2300014: InnSign6 2
+    2300016: InnSign6 3
+    2300018: InnSign6 4
+    2300020: InnSign6 5
+    2300022: NT_HouseComp20
+    2300024: NT_HouseComp20 1
+    2300026: trOut_Fields_Leaves_Dead_mstr
+    2300028: trOut_Fields_Leaves_Dead_mstr 1
+    2300030: trOut_Foliage_Bush_A_mstr
+    2300032: trOut_Foliage_Bush_A_mstr 1
+    2300034: trOut_Foliage_Bush_A_mstr 2
+    2300036: trOut_Foliage_Bush_A_mstr 3
+    2300038: trOut_Foliage_Bush_A_mstr 4
+    2300040: trOut_Foliage_Bush_A_mstr 5
+    2300042: trOut_Foliage_Bush_A_mstr 6
+    2300044: trOut_Foliage_Bush_A_mstr 7
+    2300046: trOut_Foliage_Bush_A_mstr 8
+    2300048: trOut_NewTristram_CastLight_A_mstr
+    2300050: trOut_NewTristram_CastLight_A_mstr 1
+    2300052: trOut_NewTristram_CastLight_A_mstr 2
+    2300054: trOut_NewTristram_DrawBridge_A_mstr
+    2300056: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr
+    2300058: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr 1
+    2300060: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr 2
+    2300062: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr 3
+    2300064: trOut_NewTristram_GrassEdge_mstr
+    2300066: trOut_NewTristram_GrassEdge_mstr 1
+    2300068: trOut_NewTristram_GrassEdge_mstr 2
+    2300070: trOut_NewTristram_GrassEdge_mstr 3
+    2300072: trOut_NewTristram_GrassEdge_mstr 4
+    2300074: trOut_NewTristram_GrassEdge_mstr 5
+    2300076: trOut_NewTristram_GrassEdge_mstr 6
+    2300078: trOut_NewTristram_GrassEdge_mstr 7
+    2300080: trOut_NewTristram_Hay_A_mstr
+    2300082: trOut_NewTristram_Hay_A_mstr 1
+    2300084: trOut_NewTristram_Hay_A_mstr 2
+    2300086: trOut_NewTristram_Hay_A_mstr 3
+    2300088: trOut_NewTristram_Hay_A_mstr 4
+    2300090: trOut_NewTristram_Hay_A_mstr 5
+    2300092: trOut_NewTristram_Hay_A_mstr 6
+    2300094: trOut_NewTristram_Hay_A_mstr 7
+    2300096: trOut_NewTristram_HouseComp_A_mstr
+    2300098: trOut_NewTristram_HouseComp_A_mstr 1
+    2300100: trOut_NewTristram_HouseComp_A_mstr 10
+    2300102: trOut_NewTristram_HouseComp_A_mstr 11
+    2300104: trOut_NewTristram_HouseComp_A_mstr 12
+    2300106: trOut_NewTristram_HouseComp_A_mstr 13
+    2300108: trOut_NewTristram_HouseComp_A_mstr 2
+    2300110: trOut_NewTristram_HouseComp_A_mstr 3
+    2300112: trOut_NewTristram_HouseComp_A_mstr 4
+    2300114: trOut_NewTristram_HouseComp_A_mstr 5
+    2300116: trOut_NewTristram_HouseComp_A_mstr 6
+    2300118: trOut_NewTristram_HouseComp_A_mstr 7
+    2300120: trOut_NewTristram_HouseComp_A_mstr 8
+    2300122: trOut_NewTristram_HouseComp_A_mstr 9
+    2300124: trOut_NewTristram_Road_5_layer_floor_mstr
+    2300126: trOut_NewTristram_Road_5_layer_floor_mstr 1
+    2300128: trOut_NewTristram_Road_5_layer_floor_mstr 2
+    2300130: trOut_NewTristram_Road_5_layer_floor_mstr 3
+    2300132: trOut_NewTristram_Rocks_A_mstr
+    2300134: trOut_NewTristram_Roof_A_mstr
+    2300136: trOut_NewTristram_Roof_A_mstr 1
+    2300138: trOut_NewTristram_Roof_A_mstr 2
+    2300140: trOut_NewTristram_Roof_A_mstr 3
+    2300142: trOut_NewTristram_Wagon_A_mstr
+    2300144: trOut_NewTristram_Wagon_A_mstr 1
+    2300146: trOut_NewTristram_Wagon_A_noAO_mstr
+    2300148: trOut_NewTristram_Wagon_A_noAO_mstr 1
+    2300150: trOut_OldTristram_HouseComponents_mstr
+    2300152: trOut_RedBushA_diff_mstr
+    2300154: trOut_RedBushA_diff_mstr 1
+    2300156: trOut_RedBushA_diff_mstr 2
+    2300158: trOut_RedBushA_diff_mstr 3
+    2300160: trOut_TristramFields_FireWood_mstr
+    2300162: trOut_TristramFields_FireWood_mstr 1
+    2300164: trOut_TristramFields_FireWood_mstr 2
+    2300166: trOut_TristramFields_PT_TreeB_mstr
+    2300168: trOut_TristramFields_PT_TreeB_mstr 1
+    2300170: trOut_TristramFields_PT_TreeB_mstr 2
+    2300172: trOut_TristramFields_PT_TreeB_mstr 3
+    2300174: trOut_TristramFields_PT_TreeB_mstr 4
+    2300176: trOut_TristramFields_PT_TreeB_mstr 5
+    2300178: trOut_TristramFields_PT_TreeB_mstr 6
+    2300180: trOut_TristramFields_PT_TreeB_mstr 7
+    2300182: trOut_TristramFields_PT_TreeB_mstr 8
+    2300184: trOut_TristramFields_PT_TreeC_mstr
+    2300186: trOut_TristramFields_PT_TreeC_mstr 1
+    2300188: trOut_TristramFields_PT_TreeC_mstr 2
+    2300190: trOut_TristramFields_PT_TreeC_mstr 3
+    2300192: trOut_TristramFields_PT_TreeC_mstr 4
+    2300194: trOut_TristramFields_PT_TreeD_mstr
+    2300196: trOut_TristramFields_PT_TreeD_mstr 1
+    2300198: trOut_TristramFields_RiverScrolling
+    2300200: vendor_fence_alpha_B_mstr
+    2300202: vendor_fence_mstr
+    2300204: vendor_fence_noAO_mstr
+    3300000: Collector1
+    3300002: Collector1 1
+    3300004: Drawbridge_New_Tristram_trOut_A13
+    3300006: FenceNwell_01_Fields_trOut
+    3300008: FenceNwell_01_Fields_trOut 1
+    3300010: InnSign6
+    3300012: InnSign6 1
+    3300014: InnSign6 2
+    3300016: InnSign6 3
+    3300018: InnSign6 4
+    3300020: InnSign6 5
+    3300022: NT_HouseComp20
+    3300024: NT_HouseComp20 1
+    3300026: trOut_Fields_Leaves_Dead_mstr
+    3300028: trOut_Fields_Leaves_Dead_mstr 1
+    3300030: trOut_Foliage_Bush_A_mstr
+    3300032: trOut_Foliage_Bush_A_mstr 1
+    3300034: trOut_Foliage_Bush_A_mstr 2
+    3300036: trOut_Foliage_Bush_A_mstr 3
+    3300038: trOut_Foliage_Bush_A_mstr 4
+    3300040: trOut_Foliage_Bush_A_mstr 5
+    3300042: trOut_Foliage_Bush_A_mstr 6
+    3300044: trOut_Foliage_Bush_A_mstr 7
+    3300046: trOut_Foliage_Bush_A_mstr 8
+    3300048: trOut_NewTristram_CastLight_A_mstr
+    3300050: trOut_NewTristram_CastLight_A_mstr 1
+    3300052: trOut_NewTristram_CastLight_A_mstr 2
+    3300054: trOut_NewTristram_DrawBridge_A_mstr
+    3300056: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr
+    3300058: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr 1
+    3300060: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr 2
+    3300062: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr 3
+    3300064: trOut_NewTristram_GrassEdge_mstr
+    3300066: trOut_NewTristram_GrassEdge_mstr 1
+    3300068: trOut_NewTristram_GrassEdge_mstr 2
+    3300070: trOut_NewTristram_GrassEdge_mstr 3
+    3300072: trOut_NewTristram_GrassEdge_mstr 4
+    3300074: trOut_NewTristram_GrassEdge_mstr 5
+    3300076: trOut_NewTristram_GrassEdge_mstr 6
+    3300078: trOut_NewTristram_GrassEdge_mstr 7
+    3300080: trOut_NewTristram_Hay_A_mstr
+    3300082: trOut_NewTristram_Hay_A_mstr 1
+    3300084: trOut_NewTristram_Hay_A_mstr 2
+    3300086: trOut_NewTristram_Hay_A_mstr 3
+    3300088: trOut_NewTristram_Hay_A_mstr 4
+    3300090: trOut_NewTristram_Hay_A_mstr 5
+    3300092: trOut_NewTristram_Hay_A_mstr 6
+    3300094: trOut_NewTristram_Hay_A_mstr 7
+    3300096: trOut_NewTristram_HouseComp_A_mstr
+    3300098: trOut_NewTristram_HouseComp_A_mstr 1
+    3300100: trOut_NewTristram_HouseComp_A_mstr 10
+    3300102: trOut_NewTristram_HouseComp_A_mstr 11
+    3300104: trOut_NewTristram_HouseComp_A_mstr 12
+    3300106: trOut_NewTristram_HouseComp_A_mstr 13
+    3300108: trOut_NewTristram_HouseComp_A_mstr 2
+    3300110: trOut_NewTristram_HouseComp_A_mstr 3
+    3300112: trOut_NewTristram_HouseComp_A_mstr 4
+    3300114: trOut_NewTristram_HouseComp_A_mstr 5
+    3300116: trOut_NewTristram_HouseComp_A_mstr 6
+    3300118: trOut_NewTristram_HouseComp_A_mstr 7
+    3300120: trOut_NewTristram_HouseComp_A_mstr 8
+    3300122: trOut_NewTristram_HouseComp_A_mstr 9
+    3300124: trOut_NewTristram_Road_5_layer_floor_mstr
+    3300126: trOut_NewTristram_Road_5_layer_floor_mstr 1
+    3300128: trOut_NewTristram_Road_5_layer_floor_mstr 2
+    3300130: trOut_NewTristram_Road_5_layer_floor_mstr 3
+    3300132: trOut_NewTristram_Rocks_A_mstr
+    3300134: trOut_NewTristram_Roof_A_mstr
+    3300136: trOut_NewTristram_Roof_A_mstr 1
+    3300138: trOut_NewTristram_Roof_A_mstr 2
+    3300140: trOut_NewTristram_Roof_A_mstr 3
+    3300142: trOut_NewTristram_Wagon_A_mstr
+    3300144: trOut_NewTristram_Wagon_A_mstr 1
+    3300146: trOut_NewTristram_Wagon_A_noAO_mstr
+    3300148: trOut_NewTristram_Wagon_A_noAO_mstr 1
+    3300150: trOut_OldTristram_HouseComponents_mstr
+    3300152: trOut_RedBushA_diff_mstr
+    3300154: trOut_RedBushA_diff_mstr 1
+    3300156: trOut_RedBushA_diff_mstr 2
+    3300158: trOut_RedBushA_diff_mstr 3
+    3300160: trOut_TristramFields_FireWood_mstr
+    3300162: trOut_TristramFields_FireWood_mstr 1
+    3300164: trOut_TristramFields_FireWood_mstr 2
+    3300166: trOut_TristramFields_PT_TreeB_mstr
+    3300168: trOut_TristramFields_PT_TreeB_mstr 1
+    3300170: trOut_TristramFields_PT_TreeB_mstr 2
+    3300172: trOut_TristramFields_PT_TreeB_mstr 3
+    3300174: trOut_TristramFields_PT_TreeB_mstr 4
+    3300176: trOut_TristramFields_PT_TreeB_mstr 5
+    3300178: trOut_TristramFields_PT_TreeB_mstr 6
+    3300180: trOut_TristramFields_PT_TreeB_mstr 7
+    3300182: trOut_TristramFields_PT_TreeB_mstr 8
+    3300184: trOut_TristramFields_PT_TreeC_mstr
+    3300186: trOut_TristramFields_PT_TreeC_mstr 1
+    3300188: trOut_TristramFields_PT_TreeC_mstr 2
+    3300190: trOut_TristramFields_PT_TreeC_mstr 3
+    3300192: trOut_TristramFields_PT_TreeC_mstr 4
+    3300194: trOut_TristramFields_PT_TreeD_mstr
+    3300196: trOut_TristramFields_PT_TreeD_mstr 1
+    3300198: trOut_TristramFields_RiverScrolling
+    3300200: vendor_fence_alpha_B_mstr
+    3300202: vendor_fence_mstr
+    3300204: vendor_fence_noAO_mstr
+    4300000: trOut_Foliage_Bush_A_mstr
+    4300002: trOut_TristramFields_PT_TreeB_mstr
+    4300004: trOut_TristramFields_PT_TreeC_mstr
+    4300006: trOut_TristramFields_RiverScrolling
+    4300008: Drawbridge_New_Tristram_trOut_A13
+    4300010: InnSign6
+    4300012: InnSign6
+    4300014: trOut_Fields_Leaves_Dead_mstr
+    4300016: trOut_Foliage_Bush_A_mstr
+    4300018: trOut_Foliage_Bush_A_mstr
+    4300020: trOut_NewTristram_CastLight_A_mstr
+    4300022: trOut_NewTristram_DrawBridge_A_mstr
+    4300024: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr
+    4300026: trOut_NewTristram_GrassEdge_mstr
+    4300028: trOut_NewTristram_GrassEdge_mstr
+    4300030: trOut_NewTristram_Hay_A_mstr
+    4300032: trOut_NewTristram_Hay_A_mstr
+    4300034: trOut_NewTristram_HouseComp_A_mstr
+    4300036: trOut_NewTristram_HouseComp_A_mstr
+    4300038: trOut_NewTristram_HouseComp_A_mstr
+    4300040: trOut_NewTristram_HouseComp_A_mstr
+    4300042: trOut_NewTristram_HouseComp_A_mstr
+    4300044: trOut_NewTristram_HouseComp_A_mstr
+    4300046: trOut_NewTristram_Road_5_layer_floor_mstr
+    4300048: trOut_NewTristram_Roof_A_mstr
+    4300050: trOut_NewTristram_Wagon_A_mstr
+    4300052: trOut_NewTristram_Wagon_A_noAO_mstr
+    4300054: trOut_RedBushA_diff_mstr
+    4300056: trOut_TristramFields_FireWood_mstr
+    4300058: trOut_TristramFields_PT_TreeB_mstr
+    4300060: trOut_TristramFields_PT_TreeB_mstr
+    4300062: trOut_TristramFields_PT_TreeC_mstr
+    4300064: vendor_fence_alpha_B_mstr
+    4300066: vendor_fence_mstr
+    4300068: vendor_fence_noAO_mstr
+    4300070: FenceNwell_01_Fields_trOut
+    4300072: trOut_Foliage_Bush_A_mstr
+    4300074: trOut_Foliage_Bush_A_mstr
+    4300076: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr
+    4300078: trOut_NewTristram_GrassEdge_mstr
+    4300080: trOut_NewTristram_GrassEdge_mstr
+    4300082: trOut_NewTristram_Hay_A_mstr
+    4300084: trOut_NewTristram_Hay_A_mstr
+    4300086: trOut_NewTristram_HouseComp_A_mstr
+    4300088: trOut_NewTristram_HouseComp_A_mstr
+    4300090: trOut_NewTristram_HouseComp_A_mstr
+    4300092: trOut_NewTristram_Road_5_layer_floor_mstr
+    4300094: trOut_NewTristram_Roof_A_mstr
+    4300096: trOut_NewTristram_Wagon_A_mstr
+    4300098: trOut_NewTristram_Wagon_A_noAO_mstr
+    4300100: trOut_RedBushA_diff_mstr
+    4300102: trOut_TristramFields_FireWood_mstr
+    4300104: trOut_TristramFields_PT_TreeB_mstr
+    4300106: trOut_TristramFields_PT_TreeB_mstr
+    4300108: trOut_TristramFields_PT_TreeC_mstr
+    4300110: trOut_TristramFields_PT_TreeD_mstr
+    4300112: InnSign6
+    4300114: InnSign6
+    4300116: NT_HouseComp20
+    4300118: trOut_Fields_Leaves_Dead_mstr
+    4300120: trOut_Foliage_Bush_A_mstr
+    4300122: trOut_Foliage_Bush_A_mstr
+    4300124: trOut_NewTristram_CastLight_A_mstr
+    4300126: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr
+    4300128: trOut_NewTristram_GrassEdge_mstr
+    4300130: trOut_NewTristram_GrassEdge_mstr
+    4300132: trOut_NewTristram_Hay_A_mstr
+    4300134: trOut_NewTristram_Hay_A_mstr
+    4300136: trOut_NewTristram_HouseComp_A_mstr
+    4300138: trOut_NewTristram_HouseComp_A_mstr
+    4300140: trOut_NewTristram_Road_5_layer_floor_mstr
+    4300142: trOut_NewTristram_Rocks_A_mstr
+    4300144: trOut_NewTristram_Roof_A_mstr
+    4300146: trOut_RedBushA_diff_mstr
+    4300148: trOut_TristramFields_PT_TreeB_mstr
+    4300150: trOut_TristramFields_PT_TreeB_mstr
+    4300152: trOut_TristramFields_PT_TreeC_mstr
+    4300154: Collector1
+    4300156: Collector1
+    4300158: FenceNwell_01_Fields_trOut
+    4300160: InnSign6
+    4300162: InnSign6
+    4300164: NT_HouseComp20
+    4300166: trOut_Foliage_Bush_A_mstr
+    4300168: trOut_Foliage_Bush_A_mstr
+    4300170: trOut_NewTristram_CastLight_A_mstr
+    4300172: trOut_NewTristram_Edge_5_layer_floor_sideproj_mstr
+    4300174: trOut_NewTristram_GrassEdge_mstr
+    4300176: trOut_NewTristram_GrassEdge_mstr
+    4300178: trOut_NewTristram_Hay_A_mstr
+    4300180: trOut_NewTristram_Hay_A_mstr
+    4300182: trOut_NewTristram_HouseComp_A_mstr
+    4300184: trOut_NewTristram_HouseComp_A_mstr
+    4300186: trOut_NewTristram_HouseComp_A_mstr
+    4300188: trOut_NewTristram_Road_5_layer_floor_mstr
+    4300190: trOut_NewTristram_Roof_A_mstr
+    4300192: trOut_OldTristram_HouseComponents_mstr
+    4300194: trOut_RedBushA_diff_mstr
+    4300196: trOut_TristramFields_FireWood_mstr
+    4300198: trOut_TristramFields_PT_TreeB_mstr
+    4300200: trOut_TristramFields_PT_TreeB_mstr
+    4300202: trOut_TristramFields_PT_TreeC_mstr
+    4300204: trOut_TristramFields_PT_TreeD_mstr
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

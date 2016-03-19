@@ -1,10 +1,5 @@
 ﻿using System.IO;
-using System.Text;
-using System.Xml;
-using System.Xml.Linq;
-using System.Xml.Serialization;
 using UnityEngine;
-using System.Collections;
 
 public class CreateNewAccountButtonScript : ButtonBaseMouseEvents {
 

@@ -1,21 +1,21 @@
-﻿using System.IO;
-using System.Text;
-using System.Xml;
-using System.Xml.Serialization;
-using UnityEngine;
-using System.Collections;
+﻿using System;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
 
 /*
  * Статический класс, определяющий методы сохранения/загрузки данных игрока в файл. 
  */
-public static class ReadWriteAccountDateScript{
+
+public static class ReadWriteAccountDateScript
+{
 
     public static void WriteAccountData(string login)
     {
         if (login == string.Empty) return;
-        using(var sw = new StreamWriter(string.Format(@"Account_{0}.xml", login), false))
+        if(Account.CurrentAccount.AccountName == String.Empty) return;
+        using (var sw = new FileStream(string.Format(@"Account_{0}.xml", login), FileMode.Create))
         {
-            var formatter = new XmlSerializer(typeof (Account));
+            var formatter = new BinaryFormatter();
             formatter.Serialize(sw, Account.CurrentAccount);
         }
     }
@@ -24,10 +24,12 @@ public static class ReadWriteAccountDateScript{
     public static void ReadAccountData(string login)
     {
         if (login == string.Empty) return;
-        using (var sw = new StreamReader(string.Format(@"Account_{0}.xml", login), false))
+        using (var sw = new FileStream(string.Format(@"Account_{0}.xml", login), FileMode.Open))
         {
-            var formatter = new XmlSerializer(typeof(Account));
+            var formatter = new BinaryFormatter();
             Account.CurrentAccount = formatter.Deserialize(sw) as Account;
         }
+        Account.CurrentAccount.CheckAccountForErrors();
     }
 }
+

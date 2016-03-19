@@ -29,7 +29,7 @@ public class CharacterCreationGenderMouseEvents : MonoBehaviour
 
 
         Account.CurrentAccount.GetCurrentHero().Gender = gender == "Male";
-        GameObject.Find("ClassPortrait").GetComponent<SpriteRenderer>().sprite = StaticScripts.CreateSprite(string.Format("Portraits/Portrait_{0}_{1}",
+        GameObject.Find("ClassPortrait").GetComponent<SpriteRenderer>().sprite = StaticScripts.CreateSprite(string.Format("Portraits/Heroes/Portrait_{0}_{1}",
                 Account.CurrentAccount.GetCurrentHero().Class,
                  Account.CurrentAccount.GetCurrentHero().Gender
                     ? "Male"

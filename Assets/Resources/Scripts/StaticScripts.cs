@@ -1,13 +1,10 @@
 ﻿using System;
-using System.Runtime.Remoting;
 using Assets.Resources.Scripts;
 using UnityEngine;
-using System.Collections;
-using UnityEngine.SocialPlatforms;
 
 public static class StaticScripts {
 
-    public static void CreateGameObj(string gameObjName, string texturePath, Vector3 localScale, Vector3 position,
+    public static GameObject CreateGameObj(string gameObjName, string texturePath, Vector3 localScale, Vector3 position,
           bool needCollider = false, byte ColliderType = 0, bool specialClass = false, Type className = null, bool child = false, string parentName = "", int sortingOrder = 1)
     {
         var gameObj = new GameObject(gameObjName);
@@ -45,7 +42,7 @@ public static class StaticScripts {
                     gameObj.GetComponent<SpriteRenderer>().sortingOrder = obj.GetComponent<SpriteRenderer>().sortingOrder + 1;
                 else
                     gameObj.GetComponent<SpriteRenderer>().sortingOrder = sortingOrder;
-                return;
+                return gameObj;
             }
         }
 
@@ -54,22 +51,24 @@ public static class StaticScripts {
 
         gameObj.transform.localScale = localScale;
         gameObj.transform.position = position;
+
+        return gameObj;
     }
 
 
-    public static void CreateTextObj(string gameObjName, string text, Vector3 localScale, Vector3 position, FontType font, int fontSize,
+    public static GameObject CreateTextObj(string gameObjName, string text, Vector3 localScale, Vector3 position, FontType font, int fontSize,
        Color32 textColor, TextAlignment alignment = TextAlignment.Left, bool child = false, string parentName = "", FontStyle style = FontStyle.Normal)
     {
         Font currentFont = font == FontType.DiabloFont ? Resources.Load<Font>(@"Fonts/exocet-blizzard-light") : Resources.Load<Font>(@"Fonts/blizzard-regular");
 
         var textGameObj = new GameObject(gameObjName);
         var textMesh = textGameObj.AddComponent<TextMesh>();
-        textGameObj.transform.localScale = localScale;
         textGameObj.GetComponent<Renderer>().material = currentFont.material;
         textGameObj.GetComponent<Renderer>().material.color = textColor;
         textMesh.text = text;
         textMesh.font = currentFont;
-        textMesh.fontSize = fontSize;
+        textMesh.fontSize = fontSize / 2;
+        textMesh.characterSize = 0.04f;
         textMesh.alignment = alignment;
         textMesh.fontStyle = style;
         if (child)
@@ -78,28 +77,39 @@ public static class StaticScripts {
             if (obj != null)
             {
                 textGameObj.transform.parent = obj.transform;
-                textGameObj.transform.localScale = localScale;
+                textGameObj.transform.localScale = new Vector3(1f, 1f);
                 textGameObj.transform.localPosition = position;
                 if (obj.GetComponent<SpriteRenderer>() != null)
                     textGameObj.GetComponent<Renderer>().sortingOrder =
                         obj.GetComponent<SpriteRenderer>().sortingOrder + 1;
                 else
                     textGameObj.GetComponent<Renderer>().sortingOrder = 1;
-                return;
+                return textGameObj;
             }
         }
 
-        textGameObj.transform.localScale = localScale;
+        //textGameObj.transform.localScale = localScale;
         textGameObj.transform.position = position;
+        return textGameObj;
     }
 
 
     public static Sprite CreateSprite(string texturePath, int widthTex = 0, int heightTex = 0)
     {
-        var texture = Resources.Load<Texture2D>(texturePath);
-        return Sprite.Create(texture, new Rect(0, 0,
-            widthTex != 0? widthTex : texture.width,
-            heightTex !=  0 ? heightTex : texture.height),
-            new Vector2(0, 0));
+        Sprite sprite = new Sprite();
+        try
+        {
+            var texture = Resources.Load<Texture2D>(texturePath);
+            sprite = Sprite.Create(texture, new Rect(0, 0,
+                widthTex != 0 ? widthTex : texture.width,
+                heightTex != 0 ? heightTex : texture.height),
+                new Vector2(0, 0));
+        }
+        catch (Exception ex)
+        {
+            Debug.Log(ex);
+        }
+
+        return sprite;
     }
 }

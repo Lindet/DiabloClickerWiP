@@ -21,7 +21,8 @@ namespace Assets.Resources.Scripts
         MainMenu,
         CharacterCreation,
         InGame,
-        InGamePause
+        InGamePause,
+        CharacterSelection
     }
 
 
@@ -63,5 +64,15 @@ namespace Assets.Resources.Scripts
         Over,
         Disabled,
         Selected
+    }
+    public enum CurrentTab
+    {
+        Core,
+        Offense,
+        Defense,
+        Utility,
+        Bot,
+        Character,
+        Inventory
     }
 }

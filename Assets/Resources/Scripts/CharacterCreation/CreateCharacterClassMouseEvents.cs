@@ -68,7 +68,7 @@ public class CreateCharacterClassMouseEvents : ButtonBaseMouseEvents {
         classDetails.GetComponent<SpriteRenderer>().sprite = Sprite.Create(classDetailTex,
             new Rect(0, 0, classDetailTex.width, classDetailTex.height), new Vector2(0, 0));
 
-        GameObject.Find("ClassPortrait").GetComponent<SpriteRenderer>().sprite = StaticScripts.CreateSprite(string.Format("Portraits/Portrait_{0}_{1}",
+        GameObject.Find("ClassPortrait").GetComponent<SpriteRenderer>().sprite = StaticScripts.CreateSprite(string.Format("Portraits/Heroes/Portrait_{0}_{1}",
                 Account.CurrentAccount.GetCurrentHero().Class,
                  Account.CurrentAccount.GetCurrentHero().Gender
                     ? "Male"

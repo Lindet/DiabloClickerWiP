@@ -3,7 +3,7 @@ using System.Collections;
 
 public class ExitButtonScript : ButtonBaseMouseEvents {
 
-    void OnMouseDown()
+    new void OnMouseDown()
     {
         Application.Quit();
     }
