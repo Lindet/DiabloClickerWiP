@@ -2,10 +2,10 @@
 using System.Runtime.Remoting.Messaging;
 using System.Text;
 using Assets.Resources.Scripts;
-using UnityEngine;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using UnityEngine;
 using FileMode = System.IO.FileMode;
 using Random = System.Random;
 
@@ -58,7 +58,7 @@ public class Main : MonoBehaviour
     {
         SceneGameObject = new GameObject("SceneGameObject");
         SceneGameObject.transform.parent = transform;
-       // ReadDDS(@"F:\Users\Oksana\Downloads\2DUIFontIcons.dds", false);
+       // ReadDDS(@"F:\Users\Oksana\Desktop\DiabloModels\textures\2DUIQuestReward.dds", false);
         MakeCameraDarker();
         ShowTopAndBottomBorders();
         LoginMenu();
@@ -369,7 +369,7 @@ public class Main : MonoBehaviour
                 var pixel = texture.GetPixel(i, j);
                 if (alpha)
                     pixel.a = 1;
-                if (i > 31)
+                if (i >= 31)
                     flippedtexture.SetPixel(i - 31, texture.height - 1 - j, pixel);
                 else
                 {

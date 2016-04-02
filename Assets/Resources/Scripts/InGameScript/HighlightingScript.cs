@@ -1,9 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
+//This class is used to change object material for objects those can be hovered by mouse. Transparent material - no outline at all.
 public class HighlightingScript : MonoBehaviour {
     
-	// Use this for initialization
     private Material outlineMaterial;
     private Material transparentMaterial;
 
@@ -18,11 +19,6 @@ public class HighlightingScript : MonoBehaviour {
 
 	    SetMaterial(true);
     }
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 
     void OnMouseEnter()
     {

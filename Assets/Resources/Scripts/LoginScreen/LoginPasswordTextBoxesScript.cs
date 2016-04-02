@@ -6,6 +6,15 @@ using Assets.Resources.Scripts;
 using UnityEngine;
 using System.Collections;
 
+/*
+ * This class is used for the login/password textBoxes at the login screen.
+ * There were no way to generate the same style as Diablo have so i had to write a bicycle.
+ * Functionality:
+ * - Two lines for texts. 
+ * - You can use 'tab' to change which line is selected
+ * - There is a caret which is blinking!
+ * - Checks if there are enough of chars in the line to consider it 'login' and 'password'
+ */
 public class LoginPasswordTextBoxesScript : MonoBehaviour {
 
     GameObject caretGameObject;

@@ -3,7 +3,7 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
 /*
- * Статический класс, определяющий методы сохранения/загрузки данных игрока в файл. 
+ * Static class for saving/loading data to/from file 
  */
 
 public static class ReadWriteAccountDateScript

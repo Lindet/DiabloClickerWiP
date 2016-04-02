@@ -5,6 +5,8 @@ using Assets.Resources.Scripts;
 using UnityEngine;
 using System.Collections;
 
+
+//Class for functionality of the Name Text Box. Used at the Character Creating Screen
 public class CharacterCreationTextBox : MonoBehaviour
 {
     GameObject caretGameObject;

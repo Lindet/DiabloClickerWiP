@@ -1,0 +1,3778 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDiabloItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>The Flavor of Time</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Kymbo's Gold</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Moonlight Ward</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Xephirian Amulet</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Ouroboros</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>The Star of Azkaranth</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Amulet</Type>
+    <Name>Tal Rasha's Allegiance</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Amulet</Type>
+    <Name>The Traveler's Pledge</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Rondal's Locket</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Squirt's Necklace</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>The Murlocket</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Talisman of Aranoch</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Holy Beacon</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Eye of Etlich</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Mara's Kaleidoscope</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Amulet</Type>
+    <Name>Blackthorne's Duncraig Cross</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Haunt of Vaxo</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Ancestors' Grace</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Countess Julia's Cameo</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>The Ess of Johan</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Golden Gorget of Leoric</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Overwhelming Desire</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Dovu Energy Trap</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Rakoff's Glass of Life</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Amulet</Type>
+    <Name>Halcyon's Ascent</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Amulet</Type>
+    <Name>Sunwuko's Shines</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe1H</Type>
+    <Name>Flesh Tearer</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe1H</Type>
+    <Name>Genzaniku</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe1H</Type>
+    <Name>The Wedge</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe1H</Type>
+    <Name>Utar's Roar</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe1H</Type>
+    <Name>Sky Splitter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe1H</Type>
+    <Name>The Butcher's Sickle</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe1H</Type>
+    <Name>The Burning Axe of Sankis</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Axe1H</Type>
+    <Name>Hallowed Storm</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Axe1H</Type>
+    <Name>Hallowed Breach</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Axe1H</Type>
+    <Name>Hack</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe1H</Type>
+    <Name>Mordullu's Promise</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe2H</Type>
+    <Name>Butcher's Carver</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe2H</Type>
+    <Name>The Executioner</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe2H</Type>
+    <Name>Skorn</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe2H</Type>
+    <Name>Cinder Switch</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe2H</Type>
+    <Name>Messerschmidt's Reaver</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Axe2H</Type>
+    <Name>Burst of Wrath</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Saffron Wrap</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Vigilante Belt</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Angel Hair Braid</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Quick Draw Belt</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Fleeting Strap</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Hellcat Waistguard</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Belt</Type>
+    <Name>Tal Rasha's Finespun Cloth</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Belt</Type>
+    <Name>Tal Rasha's Brace</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Belt</Type>
+    <Name>Inna's Blessing</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Belt</Type>
+    <Name>Inna's Favor</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>String of Ears</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>The Witching Hour</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Goldwrap</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Belt</Type>
+    <Name>Captain Crimson's Satin Sash</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Belt</Type>
+    <Name>Captain Crimson's Silk Girdle</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Belt</Type>
+    <Name>Guardian's Sheath</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Belt</Type>
+    <Name>Guardian's Case</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Belt</Type>
+    <Name>Demon's Lock</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Belt</Type>
+    <Name>Demon's Restraint</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Belt</Type>
+    <Name>Blackthorne's Notched Belt</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Razor Strop</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Sash of Knives</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Insatiable Belt</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Cord of the Sherma</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Harrington Waistguard</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Hwoj Wrap</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Vigilante Belt</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Belt of the Trove</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Omryn's Chain</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Blessed of Haull</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Omnislash</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Haunting Girdle</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Belt of Transcendence</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Crashing Rain</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Cord of the Sherma</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Sacred Harness</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Binding of the Lost</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Chain of Shadows</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>The Shame of Delsere</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Zoey's Secret</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Belt</Type>
+    <Name>Kyoshiro's Soul</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Boots</Type>
+    <Name>Lut Socks</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Boots</Type>
+    <Name>Boj Anglers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Boots</Type>
+    <Name>Lost Boys</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Boots</Type>
+    <Name>Board Walkers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Boots</Type>
+    <Name>Fire Walkers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Boots</Type>
+    <Name>Ice Climbers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Natalya's Soul</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Natalya's Bloody Footprints</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Immortal King's Pillar</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Immortal King's Stride</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Zunimassa's Journey</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Zunimassa's Trail</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Asheara's Lock</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Asheara's Tracks</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Asheara's Finders</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Cain's Slippers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Cain's Sandals</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Cain's Travelers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Captain Crimson's Whalers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Captain Crimson's Waders</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Sage's Seekers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Sage's Journey</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Sage's Passage</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Blackthorne's Spurs</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Boots</Type>
+    <Name>Boots of Disregard</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Boots</Type>
+    <Name>Illusory Boots</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Boots</Type>
+    <Name>Irontoe Mudsputters</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Firebird's Tarsi</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Marauder's Treads</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Eight-Demon Boots</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Jade Harvester's Swiftness</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Sabatons of Akkhan</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Foundation of the Earth</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Helltooth Greaves</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Roland's Stride</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Boots</Type>
+    <Name>The Crudest Boots</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Striders of Destiny</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Hell Walkers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Sabaton of the Wastes</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Boots</Type>
+    <Name>Nilfur's Boast</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Inna's Sandals</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Uliana's Destiny</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Foundation of the Light</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Boots</Type>
+    <Name>Zeal of the Invoker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Boots</Type>
+    <Name>Rivera Dancers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bow</Type>
+    <Name>Etrayu</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bow</Type>
+    <Name>Uskang</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bow</Type>
+    <Name>Unbound Bolt</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bow</Type>
+    <Name>The Raven's Wing</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bow</Type>
+    <Name>Windforce</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bow</Type>
+    <Name>Venomhusk</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bow</Type>
+    <Name>Sydyru Crust</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bow</Type>
+    <Name>Cluckeye</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bow</Type>
+    <Name>Kridershot</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bow</Type>
+    <Name>Leonine Bow of Hashir</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bow</Type>
+    <Name>Yang's Recurve</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Wondrous Deflectors</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Kethryes' Splint</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Promise of Glory</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Slave Bonds</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Steady Strikers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Lacuni Prowlers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Gungdo Gear</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Strongarm Bracers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Bracers</Type>
+    <Name>Aughild's Ultimatum</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Bracers</Type>
+    <Name>Aughild's Search</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Bracers</Type>
+    <Name>Guardian's Deflector</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Bracers</Type>
+    <Name>Guardian's Aversion</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Bracers</Type>
+    <Name>Demon's Revenge</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Bracers</Type>
+    <Name>Demon's Animus</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Warzechian Armguards</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Ancient Parthan Defenders</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Reaper's Wraps</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Trag'Oul Coils</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Sanguinary Vambraces</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Nemesis Bracers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Custerian Wristguards</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Ranslor's Folly</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Bracers</Type>
+    <Name>Shackles of the Invoker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Spirit Guards</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Drakon's Lesson</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Gabriel's Vambraces</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Bindings of the Lesser Gods</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Wraps of Clarity</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Bracers of Destruction</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Bracers of the First Men</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Jeram's Bracers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Coils of the First Spider</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Skular's Salvation</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Bracer of Fury</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Pinto's Pride</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Vambraces of Sescheron</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Bracers</Type>
+    <Name>Bindings of the Lesser Gods</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Anessazi Edge</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>The Gidbinn</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Moon Slayer</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Deadly Rebirth</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Umbral Oath</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Living Umbral Oath</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Last Breath</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Manajuma's Carving Knife</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Hallowed Salvation</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Hallowed Sufferance</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Starmetal Kukri</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Rhen'ho Flayer</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>The Dagger of Darts</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Sacred Harvester</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CeremonialKnife</Type>
+    <Name>Last Breath</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Ruinstoke</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Goldskin</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Tyrael's Might</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Cindercoat</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Chaingmail</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Aquila Cuirass</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Immortal King's Soul Cage</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Immortal King's Eternal Reign</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Tal Rasha's Guardianship</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Tal Rasha's Relentless Pursuit</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Inna's Vast Expanse</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Zunimassa's Vessel</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Zunimassa's Marrow</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Heart of Iron</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Robes of the Rydraelm</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Mantle of the Rydraelm</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Born's Carapace</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Born's Heart of Steel</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Born's Frozen Soul</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Aughild's Dominion</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Aughild's Rule</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Demon's Heart</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Demon's Marrow</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Shi Mizu's Haori</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Armor of the Kind Regent</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Firebird's Breast</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Marauder's Carapace</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Heart of the Crashing Wave</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Jade Harvester's Peace</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Breastplate of Akkhan</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Helltooth Tunic</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Blackthorne's Surcoat</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Roland's Bearing</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Harness of Truth</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Cage of the Hellborn</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Cuirass of the Wastes</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Sunwuko's Soul</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Shi Mizu's Haori</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Uliana's Heart</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Heart of the Light</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Chest</Type>
+    <Name>Spirit of the Earth</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Heart of Iron</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Chest</Type>
+    <Name>Aquila Cuirass</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Cloak</Type>
+    <Name>Cape of the Dark Night</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Cloak</Type>
+    <Name>The Inquisitor</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Cloak</Type>
+    <Name>The Cloak of the Garwulf</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Cloak</Type>
+    <Name>Beckon Sail</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Cloak</Type>
+    <Name>Natalya's Shadow</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Cloak</Type>
+    <Name>Natalya's Embrace</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Cloak</Type>
+    <Name>Blackfeather</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Cloak</Type>
+    <Name>Cloak of Deception</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Danetta's Spite</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Danetta's Revenge</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Natalya's Redemption</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Natalya's Slayer</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Balefire Caster</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Izzuccob</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Blitzbolter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Dawn</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Calamity</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Hallowed Judgment</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Hallowed Condemnation</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>K'mar Tenclip</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Helltrapper</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Valla's Bequest</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>The Demon's Demise</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Lianna's Wings</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow1H</Type>
+    <Name>Fortress Ballista</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow2H</Type>
+    <Name>Demon Machine</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow2H</Type>
+    <Name>Hellrack</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow2H</Type>
+    <Name>Manticore</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow2H</Type>
+    <Name>Arcane Barb</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow2H</Type>
+    <Name>Bakkan Caster</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow2H</Type>
+    <Name>Buriza-Do Kyanon</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow2H</Type>
+    <Name>Pus Spitter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow2H</Type>
+    <Name>Chanon Bolter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Crossbow2H</Type>
+    <Name>Wojahnni Assaulter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CrusaderShield</Type>
+    <Name>Piro Marella</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CrusaderShield</Type>
+    <Name>Jekangbord</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CrusaderShield</Type>
+    <Name>Hallowed Bulwark</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CrusaderShield</Type>
+    <Name>Akarat's Awakening</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CrusaderShield</Type>
+    <Name>Hellskull</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CrusaderShield</Type>
+    <Name>Sublime Conviction</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CrusaderShield</Type>
+    <Name>The Final Witness</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>CrusaderShield</Type>
+    <Name>Salvation</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>CrusaderShield</Type>
+    <Name>Unrelenting Phalanx</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Dagger</Type>
+    <Name>Kill</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Dagger</Type>
+    <Name>The Barber</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Dagger</Type>
+    <Name>Blood-Magic Blade</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Dagger</Type>
+    <Name>Blood-Magic Edge</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Dagger</Type>
+    <Name>Pig Sticker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Dagger</Type>
+    <Name>The Clipper</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Dagger</Type>
+    <Name>Wizardspike</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Dagger</Type>
+    <Name>Karlei's Point</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Dagger</Type>
+    <Name>Lord Greenstone's Fan</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Dagger</Type>
+    <Name>Envious Blade</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Dagger</Type>
+    <Name>Eun-jang-do</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Dagger</Type>
+    <Name>Voo's Juicer</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Daibo</Type>
+    <Name>Inna's Reach</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Daibo</Type>
+    <Name>Balance</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Daibo</Type>
+    <Name>Incense Torch of the Grand Temple</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Daibo</Type>
+    <Name>Rozpedin's Staff</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Daibo</Type>
+    <Name>Rozpedin's Force</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Daibo</Type>
+    <Name>The Flow of Eternity</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Daibo</Type>
+    <Name>The Paddle</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Daibo</Type>
+    <Name>Lai Yui's Taiji</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Daibo</Type>
+    <Name>Lai Yui's Persuader</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Daibo</Type>
+    <Name>Flying Dragon</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Daibo</Type>
+    <Name>Staff of Kyro</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Daibo</Type>
+    <Name>Warstaff of General Quang</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Fist</Type>
+    <Name>Rabid Strike</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Fist</Type>
+    <Name>Demon Claw</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Fist</Type>
+    <Name>Logan's Claw</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Fist</Type>
+    <Name>Won Khim Lau</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Fist</Type>
+    <Name>Fleshrake</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Fist</Type>
+    <Name>Crystal Fist</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Fist</Type>
+    <Name>The Fist of Az'Turrasq</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Fist</Type>
+    <Name>Shenlong's Relentless Assault</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Fist</Type>
+    <Name>Shenlong's Crashing Tide</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Fist</Type>
+    <Name>Shenlong's Fist of Legend</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Fist</Type>
+    <Name>Sledge Fist</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Fist</Type>
+    <Name>Scarbringer</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Fist</Type>
+    <Name>Hallowed Hand</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Fist</Type>
+    <Name>Hallowed Hold</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Fist</Type>
+    <Name>Jawbreaker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Fist</Type>
+    <Name>Vengeful Wind</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Fist</Type>
+    <Name>Kyoshiro's Blade</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail1H</Type>
+    <Name>Golden Scourge</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail1H</Type>
+    <Name>Justinian's Mercy</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail1H</Type>
+    <Name>Swiftmount</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail1H</Type>
+    <Name>Kassar's Retribution</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail1H</Type>
+    <Name>Gyrfalcon's Foote</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail1H</Type>
+    <Name>Darklight</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail1H</Type>
+    <Name>Inviolable Faith</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail1H</Type>
+    <Name>Johanna's Argument</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail2H</Type>
+    <Name>The Mortal Drama</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail2H</Type>
+    <Name>Baleful Remnant</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail2H</Type>
+    <Name>Fate of the Fell</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail2H</Type>
+    <Name>Golden Flense</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Flail2H</Type>
+    <Name>Akkhan's Addendum</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Flail2H</Type>
+    <Name>Flail of the Charge</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Gloves</Type>
+    <Name>Telranden's Hand</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Gloves</Type>
+    <Name>Pendergrasps</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Gloves</Type>
+    <Name>Penders Purchase</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Gloves</Type>
+    <Name>Frostburn Gauntlets</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Gloves</Type>
+    <Name>Frostburn</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Gloves</Type>
+    <Name>Tasker and Theo</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Gloves</Type>
+    <Name>Stone Gauntlets</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Immortal King's Forge</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Immortal King's Irons</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Asheara's Iron Fist</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Asheara's Ward</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Gloves</Type>
+    <Name>Gladiator Gauntlets</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Gloves</Type>
+    <Name>Magefist</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Cain's Warmers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Cain's Scribe</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Cain's Scrivener</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Sage's Grasp</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Sage's Gesture</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Sage's Purchase</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Gloves</Type>
+    <Name>St. Archew's Gage</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Gloves</Type>
+    <Name>Gloves of Worship</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Firebird's Talons</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Marauder's Gloves</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Fists of Thunder</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Jade Harvester's Mercy</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Gauntlets of Akkhan</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Sunwuko's Paws</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Pride of the Invoker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Pull of the Earth</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Helltooth Gauntlets</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Roland's Grasp</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Fierce Gauntlets</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Fiendish Grips</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Gauntlet of the Wastes</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Natalya's Touch</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Tal Rasha's Grasp</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Zunimassa's Finger Wraps</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Inna's Hold</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Gloves</Type>
+    <Name>St. Archew's Gage</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Uliana's Fury</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Gloves</Type>
+    <Name>Will of the Light</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Broken Crown</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Leoric's Crown</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Andariel's Visage</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Giant Skull</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Skull of Resonance</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Mempo of Twilight</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Blind Faith</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Immortal King's Will</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Immortal King's Triumph</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Natalya's Gaze</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Natalya's Sight</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Tal Rasha's Horadric Crest</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Tal Rasha's Guise of Wisdom</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>The Helm of Command</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>The Helm of Rule</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Cain's Laurel</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Cain's Memory</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Cain's Insight</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Aughild's Brow</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Aughild's Peak</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Aughild's Spike</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Guardian's Foresight</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Guardian's Gaze</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Sage's Orbit</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Sage's Apogee</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Deathseer's Cowl</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Pride's Fall</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Death Mask</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Firebird's Plume</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Mask of the Searing Sky</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Shrouded Mask</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Accursed Visage</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Helm of the Wastes</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Uliana's Spirit</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Crown of the Light</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Leoric's Crown</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Vyr's Sightless Skull</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>The Shadow's Mask</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Visage of Gunes</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Helm</Type>
+    <Name>Warhelm of Kassar</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Jade Harvester's Wisdom</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Helm of Akkhan</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Sunwuko's Crown</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Crown of the Invoker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Eyes of the Earth</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Helltooth Mask</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Helm</Type>
+    <Name>Roland's Visage</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace1H</Type>
+    <Name>Echoing Fury</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace1H</Type>
+    <Name>Odyn Son</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace1H</Type>
+    <Name>Neanderthal</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace1H</Type>
+    <Name>Nutcracker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace1H</Type>
+    <Name>Telranden's Hand</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace1H</Type>
+    <Name>Nailbiter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace1H</Type>
+    <Name>Devastator</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace1H</Type>
+    <Name>Wirt's Original Leg</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace1H</Type>
+    <Name>Sun Keeper</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace1H</Type>
+    <Name>Mad Monarch's Scepter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace1H</Type>
+    <Name>Solanium</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace1H</Type>
+    <Name>The Horadric Hamburger</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace2H</Type>
+    <Name>Crushbane</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace2H</Type>
+    <Name>Sledge of Athskeleng</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace2H</Type>
+    <Name>Sunder</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace2H</Type>
+    <Name>Schaefer's Hammer</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace2H</Type>
+    <Name>Skywarden</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace2H</Type>
+    <Name>Wrath of the Bone King</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace2H</Type>
+    <Name>The Furnace</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mace2H</Type>
+    <Name>Soulsmasher</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyBelt</Type>
+    <Name>Dread Iron</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyBelt</Type>
+    <Name>Pride of Cassius</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyBelt</Type>
+    <Name>Thunder God's Vigor</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyBelt</Type>
+    <Name>Girdle of Giants</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyBelt</Type>
+    <Name>Lamentation</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyBelt</Type>
+    <Name>The Undisputed Champion</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyBelt</Type>
+    <Name>Kotuur's Brace</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyBelt</Type>
+    <Name>Ageless Might</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>MightyBelt</Type>
+    <Name>Immortal King's Tribal Binding</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyBelt</Type>
+    <Name>Hunter's Wrath</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyBelt</Type>
+    <Name>Lamentation</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon1H</Type>
+    <Name>Night's Reaping</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon1H</Type>
+    <Name>Blade of the Warlord</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon1H</Type>
+    <Name>Fjord Cutter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>MightyWeapon1H</Type>
+    <Name>Bul-Kathos's Solemn Vow</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>MightyWeapon1H</Type>
+    <Name>Bul-Kathos's Warrior Blood</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon1H</Type>
+    <Name>Ambo's Pride</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>MightyWeapon1H</Type>
+    <Name>Hallowed Reckoning</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>MightyWeapon1H</Type>
+    <Name>Hallowed Nemesis</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon1H</Type>
+    <Name>Remorseless</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon1H</Type>
+    <Name>Dishonored Legacy</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon1H</Type>
+    <Name>Oathkeeper</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon2H</Type>
+    <Name>The Gavel of Judgment</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon2H</Type>
+    <Name>Bastion's Revered</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon2H</Type>
+    <Name>Fury of the Vanished Peak</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>MightyWeapon2H</Type>
+    <Name>Immortal King's Boulder Breaker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon2H</Type>
+    <Name>Unending War</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon2H</Type>
+    <Name>War of the Dead</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon2H</Type>
+    <Name>Madawc's Sorrow</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon2H</Type>
+    <Name>Grim Reaper</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon2H</Type>
+    <Name>The Gavel of Judgment</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>MightyWeapon2H</Type>
+    <Name>Blade of the Tribes</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Mojo</Type>
+    <Name>Spite</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mojo</Type>
+    <Name>Gazing Demise</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mojo</Type>
+    <Name>Homunculus</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mojo</Type>
+    <Name>Uhkapian Serpent</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mojo</Type>
+    <Name>Thing of the Deep</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Mojo</Type>
+    <Name>Manajuma's Gory Fetch</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Mojo</Type>
+    <Name>Zunimassa's String of Skulls</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mojo</Type>
+    <Name>Vile Hive</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Mojo</Type>
+    <Name>Wilken's Reach</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Orb</Type>
+    <Name>The Oculus</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Orb</Type>
+    <Name>Triumvirate</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Orb</Type>
+    <Name>Singularity</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Orb</Type>
+    <Name>Cosmic Strand</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Orb</Type>
+    <Name>Winter Flurry</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Orb</Type>
+    <Name>Chantodo's Elemental Seal</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Orb</Type>
+    <Name>Chantodo's Force</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Orb</Type>
+    <Name>Tal Rasha's Unwavering Glare</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Orb</Type>
+    <Name>Mirrorball</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Orb</Type>
+    <Name>Myken's Ball of Hate</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Orb</Type>
+    <Name>Light of Grace</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Orb</Type>
+    <Name>Firebird's Eye</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Orb</Type>
+    <Name>Primordial Soul</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Orb</Type>
+    <Name>Etched Sigil</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Orb</Type>
+    <Name>Orb of Infinite Depth</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Pants</Type>
+    <Name>Swamp Land Waders</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Pants</Type>
+    <Name>Hammer Jammers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Pants</Type>
+    <Name>Gehennas</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Pants</Type>
+    <Name>Depth Diggers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Pants</Type>
+    <Name>Pox Faulds</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Inna's Glory</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Inna's Temperance</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Asheara's Cradle</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Asheara's Gait</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Asheara's Pace</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Cain's Raiment</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Cain's Robes</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Cain's Habit</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Captain Crimson's Bowsprit</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Captain Crimson's Thrust</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Blackthorne's Breeches</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Blackthorne's Jousting Mail</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Demon's Scale</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Demon's Plate</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Pants</Type>
+    <Name>Hexing Pants of Mr. Yan</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Pants</Type>
+    <Name>Death's Bargain</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Firebird's Down</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Marauder's Encasement</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Scales of the Dancing Serpent</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Jade Harvester's Courage</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Cuisses of Akkhan</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Weight of the Earth</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Helltooth Leg Guards</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Roland's Determination</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Leg Guards of Mystery</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Unholy Plates</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Tasset of the Wastes</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Natalya's Leggings</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Immortal King's Stature</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Tal Rasha's Stride</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Zunimassa's Cloth</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Sunwuko's Leggings</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Pants</Type>
+    <Name>Pox Faulds</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Uliana's Burden</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Towers of the Light</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Pants</Type>
+    <Name>Renewal of the Invoker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Polearm</Type>
+    <Name>Vigilance</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Polearm</Type>
+    <Name>Pledge of Caldeum</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Polearm</Type>
+    <Name>Heart Slaughter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Polearm</Type>
+    <Name>Standoff</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Polearm</Type>
+    <Name>Bovine Bardiche</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Quiver</Type>
+    <Name>Flint Ripper Arrowheads</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Quiver</Type>
+    <Name>Sin Seekers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Quiver</Type>
+    <Name>Black Bone Arrows</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Quiver</Type>
+    <Name>Archfiend Arrows</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Quiver</Type>
+    <Name>Holy Point Shot</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Quiver</Type>
+    <Name>Silver Star Piercers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Quiver</Type>
+    <Name>Fletcher's Pride</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Quiver</Type>
+    <Name>Dead Man's Legacy</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Quiver</Type>
+    <Name>The Ninth Cirri Satchel</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Quiver</Type>
+    <Name>Bombardier's Rucksack</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Quiver</Type>
+    <Name>Meticulous Bolts</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Quiver</Type>
+    <Name>Spines of Seething Hatred</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Band of Hollow Whispers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Leoric's Signet</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Hierophant's Seal</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Puzzle Ring</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Stolen Ring</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Broken Promises</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Eternal Union</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Justice Lantern</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Band of Untold Secrets</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Ring</Type>
+    <Name>Unity</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Ring</Type>
+    <Name>Natalya's Mark</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Ring</Type>
+    <Name>Natalya's Reflection</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Ring</Type>
+    <Name>Zunimassa's Pox</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Ring</Type>
+    <Name>Wanderlust</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Ring</Type>
+    <Name>The Compass Rose</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Ring</Type>
+    <Name>Screaming Chain</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Ring</Type>
+    <Name>The Wailing Host</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Ring</Type>
+    <Name>Band of Fallen Heroes</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Ring</Type>
+    <Name>Litany of the Undaunted</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Oculus Ring</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Nagelring</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Stone of Jordan</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Bul-Kathos's Wedding Band</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Manald Heal</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Skull Grasp</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Obsidian Ring of the Zodiac</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Hellfire Ring</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>The Tall Man's Finger</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Wyrdward</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Rogar's Huge Stone</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Rechel's Ring of Larceny</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Band of the Rue Chambers</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Ring of Royal Grandeur</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Avarice Band</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Pandemonium Loop</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Ring</Type>
+    <Name>Focus</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Ring</Type>
+    <Name>Restraint</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Eternal Union</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Halo of Arlyse</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>The Short Man's Finger</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Arcstone</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Convention of Elements</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Elusive Ring</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Justice Lantern</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Ring</Type>
+    <Name>Band of Might</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shield</Type>
+    <Name>Ivory Tower</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shield</Type>
+    <Name>Freeze of Deflection</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shield</Type>
+    <Name>Denial</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shield</Type>
+    <Name>Lidless Wall</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shield</Type>
+    <Name>Stormshield</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shield</Type>
+    <Name>Wall of Bone</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shield</Type>
+    <Name>Wall of Man</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shield</Type>
+    <Name>Hallowed Defender</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shield</Type>
+    <Name>Hallowed Barricade</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shield</Type>
+    <Name>Defender of Westmarch</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shield</Type>
+    <Name>Eberli Charo</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shield</Type>
+    <Name>Guard of Johanna</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shield</Type>
+    <Name>Vo'Toyias Spiker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shield</Type>
+    <Name>Shield of Fury</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shield</Type>
+    <Name>Shield of the Steed</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shoulders</Type>
+    <Name>Barter Town Pads</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shoulders</Type>
+    <Name>Homing Pads</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shoulders</Type>
+    <Name>Death Watch Mantle</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shoulders</Type>
+    <Name>Vile Ward</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Born's Pauldrons</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Born's Impunity</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Born's Privilege</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shoulders</Type>
+    <Name>Seven Sins</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shoulders</Type>
+    <Name>Corruption</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Aughild's Reign</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Aughild's Power</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Demon's Flight</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Demon's Aileron</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Asheara's Guard</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Asheara's Custodian</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shoulders</Type>
+    <Name>Profane Pauldrons</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shoulders</Type>
+    <Name>Spaulders of Zakara</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shoulders</Type>
+    <Name>Pauldrons of the Skeleton King</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Firebird's Pinions</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Marauder's Spines</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Mantle of the Upside-Down Sinners</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Jade Harvester's Joy</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Pauldrons of Akkhan</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Sunwuko's Balance</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Burden of the Invoker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Spires of the Earth</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Helltooth Mantle</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Unsanctified Shoulders</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Roland's Mantle</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Dashing Pauldrons of Despair</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Pauldrons of the Wastes</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shoulders</Type>
+    <Name>Death Watch Mantle</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Uliana's Strength</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Mountain of the Light</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shoulders</Type>
+    <Name>Fury of the Ancients</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>Vyr's Proud Pauldrons</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Shoulders</Type>
+    <Name>The Shadow's Burden</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Shoulders</Type>
+    <Name>Mantle of Channeling</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Spear</Type>
+    <Name>Arreat's Law</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Spear</Type>
+    <Name>The Three Hundredth Spear</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Spear</Type>
+    <Name>Empyrean Messenger</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Spear</Type>
+    <Name>Scrimshaw</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Spear</Type>
+    <Name>Akanesh, the Herald of Righteousness</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>SpiritStone</Type>
+    <Name>Bezoar Stone</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>SpiritStone</Type>
+    <Name>The Mind's Eye</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>SpiritStone</Type>
+    <Name>Erlang Shen</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>SpiritStone</Type>
+    <Name>Gyana Na Kashu</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>SpiritStone</Type>
+    <Name>See No Evil</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>SpiritStone</Type>
+    <Name>The Eye of the Storm</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>SpiritStone</Type>
+    <Name>Tzo Krin's Gaze</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>SpiritStone</Type>
+    <Name>Madstone</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>SpiritStone</Type>
+    <Name>Inna's Radiance</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>SpiritStone</Type>
+    <Name>The Laws of Seph</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>SpiritStone</Type>
+    <Name>Kekegi's Unbreakable Spirit</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>SpiritStone</Type>
+    <Name>Eye of Peshkov</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Staff</Type>
+    <Name>The Broken Staff</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Staff</Type>
+    <Name>Mark of The Magi</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Staff</Type>
+    <Name>Wormwood</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Staff</Type>
+    <Name>Maloth's Focus</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Staff</Type>
+    <Name>The Tormentor</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Staff</Type>
+    <Name>Autumn's Call</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Staff</Type>
+    <Name>The Grand Vizier</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Staff</Type>
+    <Name>Ahavarion, Spear of Lycander</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Staff</Type>
+    <Name>Valthek's Rebuke</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Staff</Type>
+    <Name>The Smoldering Core</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Staff</Type>
+    <Name>SuWong Diviner</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Staff</Type>
+    <Name>Staff of Chiroptera</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Griswold's Worn Edge</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Wildwood</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>The Ancient Bonesaber of Zumakalis</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Skycutter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Sever</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Rakanishu's Blade</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Devil Tongue</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Azurewrath</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Doombringer</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Monster Hunter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Sword1H</Type>
+    <Name>Born's Searing Spite</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Sword1H</Type>
+    <Name>Born's Furious Wrath</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Griswold's Masterpiece</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Griswold's Perfection</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Spectrum</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Thunderfury, Blessed Blade of the Windseeker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Exarian</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Gift of Silaria</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Fulminator</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>The Twisted Sword</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Rimeheart</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Deathwish</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Shard of Hate</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Sword1H</Type>
+    <Name>The Slanderer</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Sword1H</Type>
+    <Name>Little Rogue</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>In-geom</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Fulminator</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Azurewrath</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword1H</Type>
+    <Name>Sword of Ill Will</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>The Grandfather</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>The Zweihander</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>Warmonger</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>Scourge</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>Blade of Prophecy</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>The Sultan of Blinding Sand</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>Maximus</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>Blackguard</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>Faithful Memory</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>Splintered Oar</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>Stalgard's Decimator</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>Cam's Rebuttal</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>Blood Brother</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Sword2H</Type>
+    <Name>Corrupted Ashbringer</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>VoodooMask</Type>
+    <Name>Tiklandian Visage</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>VoodooMask</Type>
+    <Name>The Grin Reaper</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>VoodooMask</Type>
+    <Name>Quetzalcoatl</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>VoodooMask</Type>
+    <Name>Split Tusk</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>VoodooMask</Type>
+    <Name>Zunimassa's Vision</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>VoodooMask</Type>
+    <Name>Visage of Giyua</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>VoodooMask</Type>
+    <Name>Carnevil</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>VoodooMask</Type>
+    <Name>Mask of Jeram</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Wand</Type>
+    <Name>Gesture of Orpheus</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Wand</Type>
+    <Name>Starfire</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Wand</Type>
+    <Name>Blackhand Key</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Wand</Type>
+    <Name>Ruinstoke</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Wand</Type>
+    <Name>Atrophy</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Wand</Type>
+    <Name>Fragment of Destiny</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Wand</Type>
+    <Name>Chantodo's Sacred Protector</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Wand</Type>
+    <Name>Chantodo's Will</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Wand</Type>
+    <Name>Slorak's Madness</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Wand</Type>
+    <Name>Hallowed Scepter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Set</Quality>
+    <Type>Wand</Type>
+    <Name>Hallowed Baton</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Wand</Type>
+    <Name>Wand of Woh</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Wand</Type>
+    <Name>Serpent's Sparker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Wand</Type>
+    <Name>Aether Walker</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>Wand</Type>
+    <Name>Unstable Scepter</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>WizardHat</Type>
+    <Name>Dark Mage's Shade</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>WizardHat</Type>
+    <Name>The Swami</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>WizardHat</Type>
+    <Name>Storm Crow</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>WizardHat</Type>
+    <Name>Archmage's Vicalyke</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>WizardHat</Type>
+    <Name>Velvet Camaral</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>WizardHat</Type>
+    <Name>The Magistrate</Name>
+  </DiabloItems>
+  <DiabloItems>
+    <Quality>Legendary</Quality>
+    <Type>WizardHat</Type>
+    <Name>Crown of the Primus</Name>
+  </DiabloItems>
+</ArrayOfDiabloItems>

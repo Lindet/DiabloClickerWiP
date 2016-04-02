@@ -2,6 +2,8 @@
 using UnityEngine;
 using System.Collections;
 
+
+//This class used for selecting current gender of the hero which is being created. 
 public class CharacterCreationGenderMouseEvents : MonoBehaviour
 {
     private string gender = string.Empty;

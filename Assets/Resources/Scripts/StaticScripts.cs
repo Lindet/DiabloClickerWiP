@@ -2,15 +2,26 @@
 using Assets.Resources.Scripts;
 using UnityEngine;
 
-public static class StaticScripts {
+//This static class contains some static methods to simplify GameObject creation.
+public static class StaticScripts
+{
+
+    /*
+     * This method creates new GameObject with parameters which were passed. 
+     * - needCollider and ColliderType. Use it if you want to interact with the mouse events(over, down etc). 1 is for squared object, 2 for circle
+     * - specialClass and className. Use it if you want to add some custom component to your object
+     * - sortingOrder. Use it if you want that object to be behind/on top of another one. 
+     *                 child-object will have parentSortingOrder + 1 here.
+     */
 
     public static GameObject CreateGameObj(string gameObjName, string texturePath, Vector3 localScale, Vector3 position,
-          bool needCollider = false, byte ColliderType = 0, bool specialClass = false, Type className = null, bool child = false, string parentName = "", int sortingOrder = 1)
+        bool needCollider = false, byte ColliderType = 0, bool specialClass = false, Type className = null,
+        bool child = false, string parentName = "", int sortingOrder = 1)
     {
         var gameObj = new GameObject(gameObjName);
         gameObj.AddComponent<SpriteRenderer>().sprite = CreateSprite(@texturePath);
 
-        if (needCollider) 
+        if (needCollider)
         {
             switch (ColliderType)
             {
@@ -38,8 +49,10 @@ public static class StaticScripts {
                 gameObj.transform.parent = obj.transform;
                 gameObj.transform.localScale = localScale;
                 gameObj.transform.localPosition = position;
-                if (obj.GetComponent<SpriteRenderer>() != null && sortingOrder < obj.GetComponent<SpriteRenderer>().sortingOrder + 1)
-                    gameObj.GetComponent<SpriteRenderer>().sortingOrder = obj.GetComponent<SpriteRenderer>().sortingOrder + 1;
+                if (obj.GetComponent<SpriteRenderer>() != null &&
+                    sortingOrder < obj.GetComponent<SpriteRenderer>().sortingOrder + 1)
+                    gameObj.GetComponent<SpriteRenderer>().sortingOrder =
+                        obj.GetComponent<SpriteRenderer>().sortingOrder + 1;
                 else
                     gameObj.GetComponent<SpriteRenderer>().sortingOrder = sortingOrder;
                 return gameObj;
@@ -56,10 +69,21 @@ public static class StaticScripts {
     }
 
 
-    public static GameObject CreateTextObj(string gameObjName, string text, Vector3 localScale, Vector3 position, FontType font, int fontSize,
-       Color32 textColor, TextAlignment alignment = TextAlignment.Left, bool child = false, string parentName = "", FontStyle style = FontStyle.Normal)
+
+    /*
+     * This method creates new GameObject with parameters which were passed. 
+     * - localScale. Nearly deprecated. Was used to down-scale the size of the text so it won't be so ugly
+     * - textColor. TODO: Make a enum with all used numbers.
+     */
+
+    public static GameObject CreateTextObj(string gameObjName, string text, Vector3 localScale, Vector3 position,
+        FontType font, int fontSize,
+        Color32 textColor, TextAlignment alignment = TextAlignment.Left, bool child = false, string parentName = "",
+        FontStyle style = FontStyle.Normal)
     {
-        Font currentFont = font == FontType.DiabloFont ? Resources.Load<Font>(@"Fonts/exocet-blizzard-light") : Resources.Load<Font>(@"Fonts/blizzard-regular");
+        Font currentFont = font == FontType.DiabloFont
+            ? Resources.Load<Font>(@"Fonts/exocet-blizzard-light")
+            : Resources.Load<Font>(@"Fonts/blizzard-regular");
 
         var textGameObj = new GameObject(gameObjName);
         var textMesh = textGameObj.AddComponent<TextMesh>();
@@ -67,7 +91,7 @@ public static class StaticScripts {
         textGameObj.GetComponent<Renderer>().material.color = textColor;
         textMesh.text = text;
         textMesh.font = currentFont;
-        textMesh.fontSize = fontSize / 2;
+        textMesh.fontSize = fontSize/2;
         textMesh.characterSize = 0.04f;
         textMesh.alignment = alignment;
         textMesh.fontStyle = style;
@@ -88,12 +112,13 @@ public static class StaticScripts {
             }
         }
 
-        //textGameObj.transform.localScale = localScale;
         textGameObj.transform.position = position;
         return textGameObj;
     }
 
 
+
+    //Just created sprite, nothing more.
     public static Sprite CreateSprite(string texturePath, int widthTex = 0, int heightTex = 0)
     {
         Sprite sprite = new Sprite();
@@ -108,6 +133,7 @@ public static class StaticScripts {
         catch (Exception ex)
         {
             Debug.Log(ex);
+            Debug.Log(texturePath);
         }
 
         return sprite;

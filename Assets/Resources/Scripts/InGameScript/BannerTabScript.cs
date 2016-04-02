@@ -33,6 +33,12 @@ public class BannerTabScript : MonoBehaviour
         isSelected = false;
     }
 
+
+    /*
+     * This method is looking for previously selected tab, disabling all its components and,
+     * after that, it finds currently selected tab. If currently selected tab have been selected before then it just 
+     * 'awake' it. In the other case, it'll create new object for selected tab. 
+     */
     public void SetTabSelected()
     {
         if (isSelected) return;

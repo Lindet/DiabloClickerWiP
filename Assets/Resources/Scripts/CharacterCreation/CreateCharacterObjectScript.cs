@@ -4,6 +4,8 @@ using System.Collections;
 using Assets.Resources.Scripts;
 using Random = UnityEngine.Random;
 
+
+// Class which is combining Character Creation Screen.
 public class CreateCharacterObjectScript : MonoBehaviour {
 
     GameClasses selectedClass = GameClasses.Wizard;

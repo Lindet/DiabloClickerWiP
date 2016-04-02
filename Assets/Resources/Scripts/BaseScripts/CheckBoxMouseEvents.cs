@@ -3,7 +3,7 @@ using UnityEngine;
 using System.Collections;
 
 /*
- * Класс, определяющие базовое поведение checkBox'ов игры - смену статуса + текстуры при различных эвентах мыши. 
+ * Class, which is used to determine base behavior of the CheckBoxes - changing states, textures etc with every mouse event.
  */
 public class CheckBoxMouseEvents : MonoBehaviour
 {

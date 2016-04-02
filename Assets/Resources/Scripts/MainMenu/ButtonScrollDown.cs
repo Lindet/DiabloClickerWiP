@@ -2,6 +2,7 @@
 using UnityEngine;
 using System.Collections;
 
+//This is the code for the button which scrolls HeroList 
 public class ButtonScrollDown : MonoBehaviour {
 
     private const float scrollBarStep = 0.0956f;
@@ -48,9 +49,9 @@ public class ButtonScrollDown : MonoBehaviour {
         if (scrollBar.transform.position.y <= -2.01f) return;
 
         if (lastHeroSlot == null) lastHeroSlot = GameObject.Find("HeroSlot_11");
-        if (lastHeroSlot.transform.position.y == -2.3f) return; //проверка на нахождение в максимальной позиции
+        if (lastHeroSlot.transform.position.y == -2.3f) return; //check if it's the maximum allowed position
         if (heroSlotsList == null) heroSlotsList = GameObject.Find("HeroListGameObject");
-        if (lastHeroSlot.transform.position.y + heroPlateStep > -2.3f) // Выполняется, если до "базового" положения осталось расстояния меньше, чем один шаг
+        if (lastHeroSlot.transform.position.y + heroPlateStep > -2.3f) // Do this if there is some more length but not enough for the full step
         {
             var diff = -2.3f - lastHeroSlot.transform.position.y;
             foreach (Transform child in heroSlotsList.transform)

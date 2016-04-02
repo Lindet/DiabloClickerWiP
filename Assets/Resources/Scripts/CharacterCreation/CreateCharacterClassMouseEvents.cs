@@ -3,6 +3,13 @@ using Assets.Resources.Scripts;
 using UnityEngine;
 using System.Collections;
 
+
+/*
+ * Functionality for changing gender of the hero at the CharacterCreation Screen.
+ * - Helps to re-color selected button(especially text of that button)
+ * - Deselects previously selected button
+ * - Loads another character details texture
+ */
 public class CreateCharacterClassMouseEvents : ButtonBaseMouseEvents {
 
     string[] classesArray = { "Barbarian", "Crusader", "Demon Hunter", "Monk", "Witch Doctor", "Wizard" };

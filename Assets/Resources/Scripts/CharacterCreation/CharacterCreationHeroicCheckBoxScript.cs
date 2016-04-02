@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
+//Class for heroic checkBox at the CharacterCreatingScreen
 public class CharacterCreationHeroicCheckBoxScript : CheckBoxMouseEvents
 {
 

@@ -3,15 +3,17 @@ using UnityEngine;
 using System.Collections;
 using Assets.Resources.Scripts;
 
+//This class draws everything about character - stats and equipped items
 public class CharacterTabWindowScript : MonoBehaviour {
 
-	// Use this for initialization
 
     private GameObject LevelAmountTextObject;
     private GameObject MainStatAmountTextObject;
-
+    private GameObject vitalityStatAmountTextObject;
+    private GameObject damageStatAmountTextObject;
 	void Start ()
 	{
+        Account.CurrentAccount.GetCurrentHero().InventoryClass.InventoryChangedEvent += ShowEquippedItems;
 	    string backgroundTex = "";
 	    switch (Account.CurrentAccount.GetCurrentHero().Class)
 	    {
@@ -93,7 +95,7 @@ public class CharacterTabWindowScript : MonoBehaviour {
                 true, background.name);
         vitalityStatTextObject.transform.localScale = new Vector3(1f, 1.1f);
 
-        var vitalityStatAmountTextObject = StaticScripts.CreateTextObj("VitalityAmountTextObject", "10", new Vector3(0.02f, 0.02f),
+        vitalityStatAmountTextObject = StaticScripts.CreateTextObj("VitalityAmountTextObject", "10", new Vector3(0.02f, 0.02f),
                 new Vector3(0f, 0f, 0f), FontType.StandartFont, 68, Color.white, TextAlignment.Center,
                 true, background.name);
         vitalityStatAmountTextObject.transform.localScale = new Vector3(1f, 1.1f);
@@ -174,7 +176,7 @@ public class CharacterTabWindowScript : MonoBehaviour {
                 true, background.name);
         damageStatTextObject.transform.localScale = new Vector3(1f, 1.1f);
 
-        var damageStatAmountTextObject = StaticScripts.CreateTextObj("DamageAmountTextObject", "100 000", new Vector3(0.02f, 0.02f),
+        damageStatAmountTextObject = StaticScripts.CreateTextObj("DamageAmountTextObject", "100 000", new Vector3(0.02f, 0.02f),
                 new Vector3(0f, 0f, 0f), FontType.StandartFont, 68, Color.white, TextAlignment.Center,
                 true, background.name);
         damageStatAmountTextObject.transform.localScale = new Vector3(1f, 1.1f);
@@ -229,10 +231,85 @@ public class CharacterTabWindowScript : MonoBehaviour {
     {
         LevelAmountTextObject.GetComponent<TextMesh>().text = Account.CurrentAccount.GetCurrentHero().Level.ToString();
         LevelAmountTextObject.transform.localPosition = new Vector3(1.7f - (LevelAmountTextObject.GetComponent<Renderer>().bounds.size.x / 4f), 4.115f);
+
+
+        MainStatAmountTextObject.GetComponent<TextMesh>().text = Account.CurrentAccount.GetCurrentHero().ReturnStat(CharacterStat.MainStat).ToString();
+        MainStatAmountTextObject.transform.localPosition = new Vector3(1.7f - (MainStatAmountTextObject.GetComponent<Renderer>().bounds.size.x / 4f), 3.91f);
+
+
+        vitalityStatAmountTextObject.GetComponent<TextMesh>().text = Account.CurrentAccount.GetCurrentHero().ReturnStat(CharacterStat.Vitality).ToString();
+        vitalityStatAmountTextObject.transform.localPosition = new Vector3(1.7f - (vitalityStatAmountTextObject.GetComponent<Renderer>().bounds.size.x / 4f), 3.71f);
+
+
+        damageStatAmountTextObject.GetComponent<TextMesh>().text = Account.CurrentAccount.GetCurrentHero().ReturnStat(CharacterStat.Damage).ToString();
+        damageStatAmountTextObject.transform.localPosition = new Vector3(0.95f - (damageStatAmountTextObject.GetComponent<Renderer>().bounds.size.x / 4f), 1.87f);
     }
 
-    // Update is called once per frame
-    void Update()
+    void OnEnable()
     {
+        ShowEquippedItems();
+    }
+
+    void ShowEquippedItems()
+    {
+        if (!isActiveAndEnabled) return;
+        foreach (Transform child in transform)
+        {
+            if (child.gameObject.name.Contains("EquippedItem_"))
+            {
+                child.gameObject.name = name + "_old";
+                child.gameObject.SetActive(false);
+                Destroy(child.gameObject);
+            }
+        }
+
+        var coordinates = new[]
+        {
+            new[] {5.57f, 1.83f, 1.6f, 0.7f}, new[] {4.34f, 1.2f, 1.6f, 0.98f}, new[] {6.85f, 1.4f, 1.2f, 1.1f}, new[] {5.45f, 0.2f, 2f, 1.25f},
+            new[] {3.95f, -0.18f, 1.6f, 0.95f}, new[] {7.19f, -0.18f, 1.6f, 0.95f}, new[] {5.45f, -0.33f, 1.9f, 0.65f}, new[] {4.15f, -0.93f, 0.9f, 0.85f},
+            new[] {7.39f, 0.93f, 0.9f, 0.85f}, new[] {5.57f, -1.63f, 1.6f, 0.95f}, new[] {5.57f, -2.93f, 1.6f, 0.96f},
+            new[] {3.95f, -2.94f, 1.6f, 1.45f}, new[] {7.19f, -2.94f, 1.6f, 1.45f}
+        };
+
+        for (int i = 0; i < Account.CurrentAccount.GetCurrentHero().EquippedItems.Length; i++)
+        {
+
+            if (Account.CurrentAccount.GetCurrentHero().EquippedItems[i] != null)
+            {
+                string pathToQualityBackground = "";
+                switch (Account.CurrentAccount.GetCurrentHero().EquippedItems[i].Quality)
+                {
+                    case ItemQuality.Rare:
+                        pathToQualityBackground = Account.CurrentAccount.GetCurrentHero().EquippedItems[i].Size == 2
+                            ? "Borders/InGame/Inventory/Quality_Large_Equip_Rare"
+                            : "Borders/InGame/Inventory/Quality_Small_Equip_Rare";
+                        break;
+                    case ItemQuality.Legendary:
+                        pathToQualityBackground = Account.CurrentAccount.GetCurrentHero().EquippedItems[i].Size == 2
+                            ? "Borders/InGame/Inventory/Quality_Large_Equip_Legendary"
+                            : "Borders/InGame/Inventory/Quality_Small_Inventory_Legendary";
+                        break;
+                    case ItemQuality.Set:
+                        pathToQualityBackground = Account.CurrentAccount.GetCurrentHero().EquippedItems[i].Size == 2
+                            ? "Borders/InGame/Inventory/Quality_Large_Equip_Set"
+                            : "Borders/InGame/Inventory/Quality_Small_Inventory_Set";
+                        break;
+                }
+                var qualityGameObject = StaticScripts.CreateGameObj(string.Format("EquippedItem_{0}", i), pathToQualityBackground, new Vector3(coordinates[i][2], coordinates[i][3]),
+                    new Vector3(coordinates[i][0], coordinates[i][1]), true, 1, true, typeof(ShowTooltipScript), true, name, 3);
+                qualityGameObject.GetComponent<ShowTooltipScript>().Item = Account.CurrentAccount.GetCurrentHero().EquippedItems[i];
+
+                if (Account.CurrentAccount.GetCurrentHero().EquippedItems[i].Name != null)
+                {
+                    if (Resources.Load<Texture2D>(string.Format(@"Items/{0}/{0}_{1}", Account.CurrentAccount.GetCurrentHero().EquippedItems[i].Type,
+                            Account.CurrentAccount.GetCurrentHero().EquippedItems[i].Name.Replace(" ", "_"))))
+                    {
+                        StaticScripts.CreateGameObj(string.Format("EquippedItem_{0}_icon", i),string.Format(@"Items/{0}/{0}_{1}",
+                                Account.CurrentAccount.GetCurrentHero().EquippedItems[i].Type, Account.CurrentAccount.GetCurrentHero().EquippedItems[i].Name.Replace(" ", "_")),
+                            new Vector3(0.9f, 0.9f), new Vector3(0.03f, 0.03f), child: true, parentName: qualityGameObject.name, sortingOrder: 5);
+                    }
+                }
+            }
+        }
     }
 }

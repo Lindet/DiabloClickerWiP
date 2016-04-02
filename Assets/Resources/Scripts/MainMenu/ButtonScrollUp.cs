@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
 
+
+//This is the code for the button which scrolls HeroList 
 public class ButtonScrollUp : MonoBehaviour {
 
     private const float scrollBarStep = 0.0956f;
@@ -46,9 +48,9 @@ public class ButtonScrollUp : MonoBehaviour {
         if (scrollBar.transform.position.y >= 2.77f) return; 
 
         if (firstHeroSlot == null) firstHeroSlot = GameObject.Find("HeroSlot_0");
-        if (firstHeroSlot.transform.position.y == 2.6f) return; //Проверка на положение в минимальной позиции
+        if (firstHeroSlot.transform.position.y == 2.6f) return; //check if it's the minimum allowed position
         if (heroSlotsList == null) heroSlotsList = GameObject.Find("HeroListGameObject");
-        if (firstHeroSlot.transform.position.y - heroPlateStep < 2.6f) // Выполняется, если до "базового" положения осталось расстояния меньше, чем один шаг
+        if (firstHeroSlot.transform.position.y - heroPlateStep < 2.6f) // Do this if there is some more length but not enough for the full step
         {
             var diff = firstHeroSlot.transform.position.y - 2.6f;
             foreach (Transform child in heroSlotsList.transform)

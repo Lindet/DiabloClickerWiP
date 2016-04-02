@@ -5,7 +5,9 @@ using UnityEngine;
 using System.Collections;
 
 /*
- * Базовый класс для всех кнопок игры. Содержит в себе базовое описание функционала смены текстуры в зависимости от состояния кнопки.
+ * Base class for nearly every button in the game. 
+ * Contains basic functionality for changing textures which depends on current button state.
+ * Also there is a special Action to simplify adding method which will be called after mouse click
  */
 
 public class ButtonBaseMouseEvents : MonoBehaviour

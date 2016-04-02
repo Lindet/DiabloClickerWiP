@@ -6,7 +6,6 @@ public class BannerWindowScript : MonoBehaviour
 {
     public GameObject _currentTab; 
 
-	// Use this for initialization
 	void Start ()
 	{
 	    var tab = CurrentTab.Core;
@@ -21,10 +20,5 @@ public class BannerWindowScript : MonoBehaviour
                 banner.GetComponent<BannerTabScript>().SetTabSelected();
             tab = (CurrentTab) ((int) tab + 1);
         }	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
 	}
 }
